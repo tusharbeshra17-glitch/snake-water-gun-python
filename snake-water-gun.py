@@ -1,6 +1,8 @@
-print("===========================SNAKE WATER GUN=======================================")
-print("========================MADE BY TUSHAR==================================")
 import random 
+print("=" * 70)
+print("                 🐍 SNAKE • WATER • GUN 🔫")
+print("                    🎮 MADE BY TUSHAR 🎮")
+print("=" * 70)
 computer=random.randint(1,3)
 print("--------------------------")
 print("\n📜 GAME MENU")
